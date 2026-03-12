@@ -19,3 +19,22 @@ I'm an AI + Cloud Developer from Sonipat, India.
 
 ![Architecture Diagram](download (7).png)
 
+
+---
+
+### 🤖 AI & Data Tools:
+<p align="left">
+  <img src="numpy.png" height="60" width="60" alt="NumPy" />
+  <img src="Pandas.png" height="60" width="60" alt="Pandas" />
+  <img src="mat.png" height="60" width="60"  alt="Matplotlib" />
+  <img src="seaborn.png" height="60" width="60"  alt="Seaborn" />
+  <img src="ml.png" height="60" width="60"  alt="Machine Learning" />
+  <img src="ds.jpg" height="60" width="60"  alt="Data Science" />
+  <a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="60" width="60"  alt="PyTorch" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="60" width="60"  alt="TensorFlow" /></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" width="60"  alt="Scikit-learn" /></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="60" width="60"  alt="OpenCV" /></a>
+</p>
+
+---
+
