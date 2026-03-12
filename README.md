@@ -21,7 +21,7 @@ I'm an AI + Cloud Developer from Sonipat, India.
 ### 🤖 Data Analysis Tools:
 <p align="left">
   <img src="numpy.png" height="100" width="100" alt="NumPy" />
-  <img src="pandas.png" height="100" width="100" alt="Pandas" />
+  <img src="pandas2.png" height="100" width="100" alt="Pandas" />
 </p>
 
 ---
