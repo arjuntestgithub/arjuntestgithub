@@ -15,5 +15,7 @@ I'm an AI + Cloud Developer from Sonipat, India.
 📫 Reach me at kashyaparjun083@gmail.com
 
 
-![Architecture Diagram](download(1).jpeg)
+
+
+![Architecture Diagram](download (7).png)
 
