@@ -35,3 +35,15 @@ I'm an AI + Cloud Developer from Sonipat, India.
 </p>
 
 ---
+---
+
+### 🤖 Prediction Tools:
+<p align="left">
+  <img src="neuron.jpeg" height="110" width="150"  alt="Neuron" />
+  <img src="opencv.png" height="110" width="150"  alt="OpenCV" />
+  <img src="pytorch.png" height="110" width="150"  alt="Pytorch" />
+  <img src="tensorflow.png" height="110" width="150"  alt="Tensorflow" />
+  <img src="keras.png" height="110" width="150"  alt="Keras" />
+</p>
+
+---
