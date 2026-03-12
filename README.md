@@ -3,7 +3,7 @@
 Hi 👋, I'm Arjun Kashyap
 
 
-I'm an AI ENGINEER from Sonipat, India.
+I'm an AI + Cloud Developer from Sonipat, India.
 
 🌱 I’m currently Work on Artificial Intelligence
 
