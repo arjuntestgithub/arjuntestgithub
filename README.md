@@ -4,7 +4,7 @@ Hi 👋, I'm Arjun Kashyap
 
 I'm an AI ENGINEER from Sonipat, India.
 
-🌱 I’m currently learning Artificial Intelligence
+🌱 I’m currently Work on Artificial Intelligence
 
 
 💬 Ask me about Python, System Design, SQL, Machine Learning, Deep Learning, NLP, Generative AI, Agentic AI, AI Agents, AI Architecture
