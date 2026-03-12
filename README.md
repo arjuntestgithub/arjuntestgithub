@@ -44,6 +44,9 @@ I'm an AI + Cloud Developer from Sonipat, India.
   <img src="pytorch.png" height="110" width="150"  alt="Pytorch" />
   <img src="tensorflow.png" height="110" width="150"  alt="Tensorflow" />
   <img src="keras.png" height="110" width="150"  alt="Keras" />
+  <img src="Machine2.jpeg" height="110" width="150"  alt="Machine_learning" />
+  <img src="Machine.jpeg" height="110" width="150"  alt="Machine_learning" />
+  <img src="deep_learning.jpeg" height="110" width="150"  alt="Deep_learning" />
 </p>
 
 ---
