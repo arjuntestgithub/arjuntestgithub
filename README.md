@@ -8,4 +8,4 @@ I'm an AI ENGINEER from Sonipat, India.
 💬 Ask me about Python, System Design, SQL, Machine Learning, Deep Learning, NLP, Generative AI, Agentic AI, AI Agents, AI Architecture
 📫 Reach me at kashyaparjun083@gmail.com
 
-Connect with me:
+
