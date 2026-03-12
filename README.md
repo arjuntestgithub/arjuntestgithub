@@ -16,10 +16,6 @@ I'm an AI + Cloud Developer from Sonipat, India.
 
 
 
-
-![Architecture Diagram](download (7).png)
-
-
 ---
 
 ### 🤖 AI & Data Tools:
