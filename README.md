@@ -21,7 +21,7 @@ I'm an AI + Cloud Developer from Sonipat, India.
 ### 🤖 Data Analysis Tools:
 <p align="left">
   <img src="numpy.png" height="60" width="60" alt="NumPy" />
-  <img src="pandas.png" height="90" width="100" alt="Pandas" />
+  <img src="pandas.png" height="110" width="150" alt="Pandas" />
   <img src="mat.png" height="60" width="60"  alt="Matplotlib" />
   <img src="seaborn.png" height="60" width="60"  alt="Seaborn" />
   <img src="Powerbi.jpeg" height="60" width="60"  alt="Power Bi" />
