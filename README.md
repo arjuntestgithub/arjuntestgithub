@@ -78,14 +78,8 @@ I'm an AI + Cloud Developer from Sonipat, India.
 
 ### 🤖 DevOps Tools:
 <p align="left">
-  <img src="hugging_face.png" height="110" width="150"  alt="Transformer" />
-  <img src="llm.png" height="110" width="150"  alt="Nlp" />
-   <img src="lc.png" height="110" width="150"  alt="Neuron" />
-  <img src="lf.png" height="110" width="150"  alt="OpenCV" />
-  <img src="ls.png" height="110" width="150"  alt="Pytorch" />
-  <img src="mcp.jpeg" height="110" width="150"  alt="Tensorflow" />
-  <img src="agentic.jpeg" height="110" width="150"  alt="Machine_learning" />
-  <img src="rag.png" height="110" width="150"  alt="Machine_learning" />
+  <img src="azure.png" height="110" width="150"  alt="azure" />
+  <img src="aws.png" height="110" width="150"  alt="aws" />
 </p>
 
 ---
