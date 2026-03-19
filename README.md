@@ -97,3 +97,13 @@ I'm an AI + Cloud Developer from Sonipat, India.
 </p>
 
 ---
+### 🤖 Mother Board and Chip Design Tools:
+<p align="left">
+  <img src="vlsi.png" height="110" width="150"  alt="vlsi" />
+  <img src="pcb.jpg" height="110" width="150"  alt="pcb" />
+  <img src="arduino.png" height="110" width="150"  alt="arduino" />
+ 
+</p>
+
+---
+---
