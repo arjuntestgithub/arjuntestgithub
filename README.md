@@ -15,7 +15,21 @@ I'm an AI + Cloud Developer from Sonipat, India.
 📫 Reach me at kashyaparjun083@gmail.com
 
 
+---
 
+### 🤖 Gen AI and Agentic AI Tools:
+<p align="left">
+  <img src="html.png" height="110" width="150"  alt="html" />
+  <img src="css .png" height="110" width="150"  alt="css" />
+   <img src="javascript.png" height="110" width="150"  alt="javascript" />
+  <img src="python.jpeg" height="110" width="150"  alt="python" />
+  <img src="django.png" height="110" width="150"  alt="django" />
+  <img src="flask.png" height="110" width="150"  alt="flask" />
+  <img src="fastapi.png" height="110" width="150"  alt="fastapi" />
+  <img src="mysql.png" height="110" width="150"  alt="mysql" />
+</p>
+
+---
 ---
 
 ### 🤖 Data Analysis Tools:
