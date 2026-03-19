@@ -1,18 +1,15 @@
-👨‍💻👨‍💻👨‍💻 Welcome to AI World, 👨‍💻👨‍💻👨‍💻
+# 👨‍💻 Welcome to AI World 👨‍💻
 
-### Hi 👋, I'm Arjun Kashyap
+# Hi 👋, I'm Arjun Kashyap
 
+## 🚀 AI + Cloud Developer from Sonipat, India
 
-I'm an AI + Cloud Developer from Sonipat, India.
+### 🌱 Currently working on Artificial Intelligence
 
-🌱 I’m currently Work on Artificial Intelligence
+### 💬 Ask me about: Python | System Design | SQL | Machine Learning | Deep Learning | NLP | Generative AI | Agentic AI | AI Agents | AI Architecture
 
+### 📫 Reach me at: kashyaparjun083@gmail.com
 
-💬 Ask me about Python, System Design, SQL, Machine Learning, Deep Learning, NLP, Generative AI, Agentic AI, AI Agents, AI Architecture
-
-
-
-📫 Reach me at kashyaparjun083@gmail.com
 
 
 ---
@@ -97,7 +94,7 @@ I'm an AI + Cloud Developer from Sonipat, India.
 </p>
 
 ---
-### 🤖 Mother Board and Chip Design Tools:
+### 🤖 Other Knowledge:
 <p align="left">
   <img src="vlsi.png" height="110" width="150"  alt="vlsi" />
   <img src="pcb.jpg" height="110" width="150"  alt="pcb" />
