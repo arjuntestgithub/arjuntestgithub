@@ -17,7 +17,7 @@ I'm an AI + Cloud Developer from Sonipat, India.
 
 ---
 
-### 🤖 Gen AI and Agentic AI Tools:
+### 🤖 Python Tools:
 <p align="left">
   <img src="html.png" height="110" width="150"  alt="html" />
   <img src="css .png" height="110" width="150"  alt="css" />
